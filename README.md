@@ -1,2 +1,2 @@
 # Java-Coursework
-Coursework from my 1st Year University Object-Oriented Programming module.
+Coursework from my 1st Year University Object-Oriented Programming module. The task was to program a Computer Accessories Shop stock system in Java. Inlcudes a class diagram of all classes I created for this system. You can run the system by downloading the CAS2020_Elzbieta_Stasiak-Antser folder and running the cas.jar file contained within it, it will run on Windows. I used the Eclipse IDE to program the system. 
